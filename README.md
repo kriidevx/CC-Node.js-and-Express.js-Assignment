@@ -342,4 +342,4 @@ GitHub :
 
 ---
 
-*Assignment by [Kruthi Krishna](https://github.com/kruthikrishna) & [Bhavya Chawat](https://github.com/bhavyachawat) · CC Web Dev Bootcamp*
+*Assignment by [Kruthi Krishna](https://github.com/kriidevx) & [Bhavya Chawat](https://github.com/bhavyachawat) · CC Web Dev Bootcamp*
